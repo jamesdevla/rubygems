@@ -27,3 +27,5 @@ group :test do
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
+
+gem "haml-rails", "~> 2.0"
